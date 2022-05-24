@@ -1,4 +1,4 @@
-### Hi there, I amm Kevin Bowers 👋
+### Hi there, I am Kevin Bowers 👋
 
 <!--
 **WhoDisNewNumber/WhoDisNewNumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
